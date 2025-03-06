@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: d0675fba1169ae1419b7fe7540faea35
+  - enabled: 1
+    path: Assets/Scenes/Frederiks Scene.unity
+    guid: f254e21dbcbc02a4eb434a8e908e19bc
+  m_configObjects: {}
